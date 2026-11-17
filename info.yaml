@@ -8,10 +8,10 @@
 # Project metadata (used for documentation / review)
 # ======================================================
 project:
-  title: ""        # Project title
-  author: ""       # Your name
+  title: "DUT 065 - CMOS inverter with RISC-V artwork"        # Project title
+  author: "KaitoSanuki"       # Your name
   discord: ""      # Optional: Discord username (for support / communication)
-  description: ""  # Short one-line description
+  description: "GF180MCU 5 V CMOS inverter, W/L=3.60/0.60 um for both MOS devices, with isolated RISC-V artwork."  # Short one-line description
 
 # ======================================================
 # Layout (GDS) configuration
